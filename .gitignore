@@ -1,0 +1,15 @@
+# Üçüncü taraf dosyalar bu depoya konmaz; kurulum sırasında indirilir.
+*.jar
+*.exe
+*.dmg
+*.rar
+*.pkg
+*.dylib
+*.jnilib
+*.class
+jre/
+
+# Kişisel bilgi içerebilecek günlükler
+*.log
+
+.DS_Store
